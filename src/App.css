@@ -28,3 +28,32 @@
 
 .nav-item {
   color: #ededed; }
+
+#rentalListing .title {
+  font-size: 30px;
+  font-weight: 700;
+  margin-bottom: 20px; }
+
+/* SINGLE CARD STYLES*/
+.bwm-card {
+  border: none; }
+  .bwm-card .card-block {
+    padding-top: 8px; }
+  .bwm-card .card-subtitle {
+    margin: 0;
+    font-weight: 500;
+    font-size: 12px;
+    text-transform: uppercase;
+    color: #16861a; }
+  .bwm-card .card-title {
+    font-size: 19px;
+    margin: 3px 0; }
+  .bwm-card .card-text {
+    font-size: 14px;
+    font-weight: 300;
+    color: #7e7e7e;
+    margin-bottom: 0; }
+
+.page-title {
+  font-weight: 700;
+  margin-bottom: 40px; }
